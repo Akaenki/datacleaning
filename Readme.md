@@ -1,6 +1,6 @@
 # Introduction
 
-This is an R program that convert the [original dataset](Human Activity Recognition Using Smartphones Dataset) to a more descriptive and tidy form. Please make sure the dataset is in a folder named "Dataset" before running the script
+This is an R program that convert the [original dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) to a more descriptive and tidy form. Please make sure the dataset is in a folder named "Dataset" before running the script
 
 # Description of run_analysis.R
 This script requires the "dplyr" packaged. First load the package:
